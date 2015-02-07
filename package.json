@@ -1,0 +1,20 @@
+{
+  "name": "nightwatch-seed",
+  "version": "1.0.0",
+  "description": "Start testing your web app, easy and quickly with Nightwatch.js",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npm install -g nightwatch",
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/borisyankov/nightwatch-seed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borisyankov/nightwatch-seed/issues"
+  },
+  "homepage": "https://github.com/borisyankov/nightwatch-seed"
+}
